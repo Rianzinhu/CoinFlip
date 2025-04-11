@@ -1,0 +1,1 @@
+E:\Programação de Aplicativos Mobile(PAM-I)\Coinflip\Coinflip.csproj;x64
